@@ -1,0 +1,1 @@
+curl -X PUT 'http://localhost:9200/docs/_doc/d7?pipeline=attachment&pretty' -H 'Content-Type:application/json' -d ' { "c": "5p2x5Lqs6aeF44Gn44GK5Zyf55Sj44Gr5p2x5Lqs44Gw44Gq5aWI44KS6LK344GE44G+44GX44Gf44CC" }'
